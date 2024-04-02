@@ -15,7 +15,7 @@ int main() {
 	mahasiswa mhs[3];
 	for (int i = 0; i < 3; i++) {
 		cout << "data ke-" << (i + 1) << ":" << endl;
-		cout << "Nomor mahasiswa : ";
+		cout << "Nomor mahasiswa : "; 
 		cout << "Nama Mahasiswa : ";
 
 		cout << "alamat mahasiswa : " << endl;
