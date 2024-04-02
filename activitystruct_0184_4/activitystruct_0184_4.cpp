@@ -23,7 +23,7 @@ int main() {
 		cin >> mhs[i].alamat.desa;
 		cout << "\t Nama kota : "; 
 		cin >> mhs[i].alamat.kota;
-		cout << "Umur mahasiswa : ";
+		cout << "Umur mahasiswa : "; 
 		cin >> mhs[i].umur;
 		cin.ignore(1, '\n');
 		cout << endl;
